@@ -1,0 +1,3 @@
+rootProject.name = 'base-joshua'
+include 'base-core','base-gradle','base-persist-jpa','base-jersey','base-jetty','base-grizzly','base-tomcat'
+
